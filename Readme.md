@@ -2,10 +2,6 @@ Blog post: https://blog.munhou.com/2021/09/29/Drug-Listing-Dataset/
 
 [Gwern published a collection of Darknet Market Archives in 2015](https://www.gwern.net/DNM-archives). While the dataset is comprehensive, a lot of works need to be done before we can start analyzing it. I put some effort to organize Gwern's archives, extract only drug-related content, and construct a drug listing dataset in csv format.
 
-
-## Link to Dataset
-Feel free to check out my repo [here](https://github.com/munhouiani/Drug-Listings-Dataset).
-
 ## Coverage
 Drug listing data are parsed from the following marketplaces.
 
